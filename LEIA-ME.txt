@@ -1,0 +1,18 @@
+VÉRTICE INNOVATION — SITE
+
+Como visualizar:
+1. Extraia o conteúdo do arquivo ZIP para uma pasta.
+2. Abra o arquivo index.html no navegador.
+
+Arquivos:
+- index.html: estrutura e conteúdo do site
+- styles.css: estilos e layout responsivo
+- script.js: pequenos comportamentos do site
+
+Antes de publicar:
+- Substitua o e-mail de exemplo pelo contato oficial.
+- Adicione WhatsApp e Instagram oficiais.
+- Contrate/configure domínio e hospedagem.
+- Revise preços, condições e textos.
+
+O site usa uma fonte do Google Fonts quando há conexão com a internet; há fontes alternativas configuradas.

@@ -1,0 +1,11 @@
+VÉRTICE INNOVATION — PACOTE DE SEO
+
+1. Substitua o index.html atual por este arquivo. Mantenha styles.css, script.js e a pasta assets existentes no mesmo diretório.
+2. Publique robots.txt e sitemap.xml na raiz do domínio: https://verticeinnovation.com.br/
+3. Publique favicon.svg na raiz e crie a imagem assets/og-vertice.jpg (1200 x 630 px) para a prévia ao compartilhar o site. O arquivo de imagem precisa existir nesse caminho para as tags Open Graph funcionarem.
+4. O telefone do WhatsApp foi mantido conforme o HTML fornecido: +55 12 99205-3633. Confirme que continua correto.
+5. O schema usa apenas dados informados no site: nome, telefone e cidade/UF. Não foram adicionados endereço de rua, avaliações, horário ou certificações.
+6. Depois de publicar em HTTPS, cadastre o domínio no Google Search Console, valide a propriedade e envie https://verticeinnovation.com.br/sitemap.xml. Solicite a indexação da página inicial.
+7. Confirme se o domínio está configurado com HTTPS e redirecionamento de www para a versão canônica (ou vice-versa). A versão adotada neste pacote é https://verticeinnovation.com.br/.
+
+SEO não garante posição específica. Resultados dependem também da qualidade do conteúdo, desempenho, links, concorrência e presença local.
